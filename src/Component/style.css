@@ -1,0 +1,12 @@
+body{
+background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FRWBY%2Fcomments%2F2yc2lk%2Fruby_rose_wallpaper_1920x1080%2F&psig=AOvVaw1tNQE3cAF6v5Bi_F1oLzAY&ust=1588960356945000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCy5-eooukCFQAAAAAdAAAAABAZ");
+}
+
+.Header{
+    background-color: cornflowerblue;
+    padding: 20px;
+    color: black;
+    text-align: center;
+    font-size: 600%;
+    border: 20px;
+}
